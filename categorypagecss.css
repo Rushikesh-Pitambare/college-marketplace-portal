@@ -1,0 +1,47 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+.form-heading{
+  font-family: "roboto";
+  font-weight: bold;
+  font-size: 32px;
+  
+}
+.border-container{
+  border-width: 1px;
+  border-color: #696464;
+  border-style: solid;
+}
+.border-container-heading{
+  font-family: "roboto";
+  font-weight: bold;
+  font-size: 25px;
+  font-style: italic;
+  padding: 10px;
+}
+.border-container-para{
+  border-width: 1px;
+  border-color: #696464;
+  border-style: solid;
+  margin: 0;
+  padding: 15px;
+  width: 100%;
+
+}
+.icon{
+  text-align: right;
+  font-weight: bold;
+  
+}
+ p:hover {
+      background-color: #e0e0e0;   /* dark background */
+      color: white;             /* white text for contrast */
+      cursor: pointer;          /* optional: show pointer cursor */
+    }
+.aaa{
+      text-decoration: none;   /* remove underline */
+      color: inherit;          /* use normal text color */
+}

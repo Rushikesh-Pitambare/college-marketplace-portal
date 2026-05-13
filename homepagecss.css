@@ -1,0 +1,34 @@
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('https://www.mycampusreview.com/images/postgallery/1694756448vkbitbanner.jpg') center/cover no-repeat;
+    height: 70vh;
+}
+
+/* Category Cards */
+.category-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+}
+
+/* CTA Section */
+.cta {
+    background: linear-gradient(90deg, #007bff, #6610f2);
+}
+
+/* Footer */
+footer p {
+    margin: 0;
+}
+
+.card-img-top {
+    height: 245px;
+
+}
